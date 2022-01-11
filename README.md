@@ -4,35 +4,36 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 
 **Course Syllabus**: [here](https://github.com/fengjiaowang7/CS624_spring2022/blob/main/CS624_spring2022_syllabus.pdf)
 
-Course schedule:
-Tentative course schedule:\\
+**Course schedule:
 
-week 1: Course Overview, Introduction \\
+Tentative course schedule:
 
-week 2: Database basics, SQL basics \\
+week 1: Course Overview, Introduction 
 
-week 3: SQL joins, SQL aggregates, SQL joins and aggregates \\
+week 2: Database basics, SQL basics 
 
-week 4: SQL subqueries \\
+week 3: SQL joins, SQL aggregates, SQL joins and aggregates 
 
-week 5: MapReduce \\
+week 4: SQL subqueries 
 
-week 6: MapReduce Today (Hive) \\
+week 5: MapReduce 
 
-week 7: In-memory Analytics (Spark \& SparkSQL)\\
+week 6: MapReduce Today (Hive) 
 
-week 8: In-depth Spark Tutorial \\
+week 7: In-memory Analytics (Spark \& SparkSQL)
 
-week 9: Spring Holiday, no classes\\
+week 8: In-depth Spark Tutorial 
 
-week 10: Similarity Matching \\
+week 9: Spring Holiday, no classes
 
-week 11:  Link Analysis\\
+week 10: Similarity Matching 
 
-week 12:  Frequent Itemsets\\
+week 11:  Link Analysis
 
-week 13:  Clustering\\
+week 12:  Frequent Itemsets
 
-week 14: Recommendation Systems\\
+week 13:  Clustering
 
-week 15:  Final Review and Final project presentation\\
+week 14: Recommendation Systems
+
+week 15:  Final Review and Final project presentation
