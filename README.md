@@ -4,7 +4,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 
 **Course Syllabus**: [here](https://github.com/fengjiaowang7/CS624_spring2022/blob/main/CS624_spring2022_syllabus.pdf)
 
-**Course schedule:
+### Course schedule:
 
 Tentative course schedule:
 
