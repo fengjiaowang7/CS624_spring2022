@@ -43,8 +43,8 @@ week 14: Recommendation Systems
 
 week 15:  Final Review and Final project presentation
 
- Week                   | Date |Topics                                                       | Homework/Quiz | Course Project                            
+ Week                   | Date |Topic                                                       | Homework/Quiz | Course Project                            
  ---------------------- |  ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | -------------------------------- 
- Week 1 (8/30-9/3)      | 8/31 | Course overview |                                  | 
+1      | 1/11 | Course overview |                                  | 
 
 
