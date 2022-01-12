@@ -84,3 +84,7 @@ week 15:  Final Review and Final project presentation
 @@ text in purple (and bold)@@
 ```
 - hello world
+
+```diff
+- text in red
+```
