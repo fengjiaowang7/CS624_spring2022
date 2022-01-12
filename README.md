@@ -91,3 +91,4 @@ week 15:  Final Review and Final project presentation
 ```diff
 \- hello world
 ```
+\textcolor{red}{red}
