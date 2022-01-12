@@ -46,5 +46,32 @@ week 15:  Final Review and Final project presentation
  Week                   | Date |Topic                                                       | Homework/Quiz | Course Project                            
  ---------------------- |  ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | -------------------------------- 
 1      | 1/11 | Course overview |                                  | 
-
-
+1      | 1/11 | Course overview |                                  |
+2      | 1/11 | Course overview |                                  |
+2      | 1/11 | Course overview |                                  |
+3      | 1/11 | Course overview |                                  |
+3      | 1/11 | Course overview |                                  |
+4      | 1/11 | Course overview |                                  |
+4      | 1/11 | Course overview |                                  |
+5      | 1/11 | Course overview |                                  |
+5      | 1/11 | Course overview |                                  |
+6      | 1/11 | Course overview |                                  |
+6      | 1/11 | Course overview |                                  |
+7      | 1/11 | Course overview |                                  |
+7      | 1/11 | Course overview |                                  |
+8      | 1/11 | Course overview |                                  |
+8      | 1/11 | Course overview |                                  |
+9      | 1/11 | <span style="color:red">Spring Holiday, no class</span> |                                  |
+9      | 1/11 | Spring Holiday, no class |                                  |
+10      | 1/11 | Course overview |                                  |
+10      | 1/11 | Course overview |                                  |
+11      | 1/11 | Course overview |                                  |
+11      | 1/11 | Course overview |                                  |
+12      | 1/11 | Course overview |                                  |
+12      | 1/11 | Course overview |                                  |
+13      | 1/11 | Course overview |                                  |
+13      | 1/11 | Course overview |                                  |
+14      | 1/11 | Course overview |                                  |
+14      | 1/11 | Course overview |                                  |
+15      | 1/11 | Course overview |                                  |
+15      | 1/11 | Course overview |                                  |
