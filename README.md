@@ -46,49 +46,33 @@ week 15:  Final Review and Final project presentation
  Week                   | Date |Topic                                                       | Homework/Quiz | Course Project                            
  ---------------------- |  ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | -------------------------------- 
 1      | 1/11 | Course overview |                                  | 
-1      | 1/11 | Course overview |                                  |
-2      | 1/11 | Course overview |                                  |
-2      | 1/11 | Course overview |                                  |
-3      | 1/11 | Course overview |                                  |
-3      | 1/11 | Course overview |                                  |
-4      | 1/11 | Course overview |                                  |
-4      | 1/11 | Course overview |                                  |
-5      | 1/11 | Course overview |                                  |
-5      | 1/11 | Course overview |                                  |
-6      | 1/11 | Course overview |                                  |
-6      | 1/11 | Course overview |                                  |
-7      | 1/11 | Course overview |                                  |
-7      | 1/11 | Course overview |                                  |
-8      | 1/11 | Course overview |                                  |
-8      | 1/11 | Course overview |                                  |
-9      | 1/11 | <span style="color:red">Spring Holiday, no class</span> |                                  |
-9      | 1/11 | Spring Holiday, no class |                                  |
-10      | 1/11 | Course overview |                                  |
-10      | 1/11 | Course overview |                                  |
-11      | 1/11 | Course overview |                                  |
-11      | 1/11 | Course overview |                                  |
-12      | 1/11 | Course overview |                                  |
-12      | 1/11 | Course overview |                                  |
-13      | 1/11 | Course overview |                                  |
-13      | 1/11 | Course overview |                                  |
-14      | 1/11 | Course overview |                                  |
-14      | 1/11 | Course overview |                                  |
-15      | 1/11 | Course overview |                                  |
-15      | 1/11 | Course overview |                                  |
+1      | 1/13 | Concepts of Database |                                  |
+2      | 1/18 | SQL basics |                                  |
+2      | 1/20 | SQL joins |                                  |
+3      | 1/25 | SQL aggregates |                                  |
+3      | 1/27 | SQL joins and aggregates  |                                  |
+4      | 2/1 | SQL subqueries |                                  |
+4      | 2/3 | SQL subqueries |                                  |
+5      | 2/8 | MapReduce |                                  |
+5      | 2/10 | MapReduce |                                  |
+6      | 2/15 | MapReduce Today (Hive) |                                  |
+6      | 2/17 | Hive Hands-on session |                                  |
+7      | 2/22 | In-memory Analytics (Spark) |                                  |
+7      | 2/24 | SparkSQL |                                  |
+8      | 3/1 | In-depth Spark Tutorial |                                  |
+8      | 3/3 | Spark Hands-on session |                                  |
+9      | 3/8 | Spring Holiday, no class |                                  |
+9      | 3/10 | Spring Holiday, no class |                                  |
+10      | 3/15 | Similarity Matching |                                  |
+10      | 3/17 | Similarity Matching |                                  |
+11      | 3/22 | Link Analysis |                                  |
+11      | 3/24 | Link Analysis |                                  |
+12      | 3/29 | Frequent Itemsets |                                  |
+12      | 3/31 | Frequent Itemsets |                                  |
+13      | 4/5 | Clustering |                                  |
+13      | 4/7 | Clustering |                                  |
+14      | 4/12 | Recommendation Systems |                                  |
+14      | 4/14 | Recommendation Systems |                                  |
+15      | 4/19 | Final project presentation |                                  |
+15      | 4/21 | Final project presentation |                                  |
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-- hello world
-
-```diff
-- text in red
-```
-```diff
-\- hello world
-```
-\textcolor{red}{red}
