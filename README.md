@@ -75,3 +75,12 @@ week 15:  Final Review and Final project presentation
 14      | 1/11 | Course overview |                                  |
 15      | 1/11 | Course overview |                                  |
 15      | 1/11 | Course overview |                                  |
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+- hello world
