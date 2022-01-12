@@ -89,5 +89,5 @@ week 15:  Final Review and Final project presentation
 - text in red
 ```
 ```diff
-- hello world
+\- hello world
 ```
