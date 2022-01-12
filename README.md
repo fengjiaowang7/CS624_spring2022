@@ -42,3 +42,9 @@ week 13:  Clustering
 week 14: Recommendation Systems
 
 week 15:  Final Review and Final project presentation
+
+ Week                   | Date |Topics                                                       | Homework/Quiz | Course Project                            
+ ---------------------- |  ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | -------------------------------- 
+ Week 1 (8/30-9/3)      | 8/31 | Course overview |                                  | 
+
+
