@@ -5,6 +5,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 **Course Syllabus**: [here](https://github.com/fengjiaowang7/CS624_spring2022/blob/main/CS624_spring2022_syllabus.pdf)
 
 **Recommended textbooks**:  
+• Database Systems: The Complete Book, Hector Garcia-Molina, Jeffrey Ullman, Jennifer Widom, Second edition. http://infolab.stanford.edu/~ullman/dscb.html   
 • Database Concepts 9th Edition, David Kroenke, David Auer, Scott Vandenberg, Robert Yoder  
 • Learning SQL: Generate, Manipulate, and Retrieve Data 3rd Edition, Alan Beaulieu   
 • Mining of Massive Datasets, Jure Leskovec, Anand Rajaraman et al. 2020. Book website: http://www.mmds.org  
