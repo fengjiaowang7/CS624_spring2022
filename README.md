@@ -19,17 +19,17 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 1      | 1/11 | Course overview ||                                   
 1      | 1/13 | Concepts of Database |   |                                
 2      | 1/18 | SQL modify table \& Relational Algebra | Section 2.4 \& 5.1 |                                 
-2      | 1/20 | SQL single relation operation \& joins |    |                              
+2      | 1/20 | SQL single relation operation \& joins | Section 6.1, 6.2   |                              
 3      | 1/25 | SQL joins and subqueries  |       |                           
-3      | 1/27 | SQL subqueries, grouping, aggregates  |    |                              
+3      | 1/27 | SQL subqueries, grouping, aggregates  |    |    Homework 1                          
 4      | 2/1 | SQL Hands-on session |     |                              
 4      | 2/3 | SQL subqueries |    |                              
 5      | 2/8 | MapReduce |   |                                
 5      | 2/10 | MapReduce |     |                              
-6      | 2/15 | MapReduce Today (Hive) |   |                               
+6      | 2/15 | MapReduce Today (Hive) |   |   Homework 2                            
 6      | 2/17 | Hive Hands-on session |    |                               
 7      | 2/22 | In-memory Analytics (Spark) |   |                               
-7      | 2/24 | SparkSQL |      |                             
+7      | 2/24 | SparkSQL |      |    Homework 3                         
 8      | 3/1 | In-depth Spark Tutorial |   |                                
 8      | 3/3 | Spark Hands-on session |    |                              
 9      | 3/8 | Spring Holiday, no class |  |                                 
@@ -41,7 +41,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 12      | 3/29 | Frequent Itemsets |      |                            
 12      | 3/31 | Frequent Itemsets |      |                            
 13      | 4/5 | Clustering |        |                          
-13      | 4/7 | Clustering |        |                          
+13      | 4/7 | Clustering |        |       Homework 4                   
 14      | 4/12 | Recommendation Systems |      |                           
 14      | 4/14 | Recommendation Systems |      |                            
 15      | 4/19 | Final project presentation |    |                              
