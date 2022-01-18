@@ -11,14 +11,14 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 • Mining of Massive Datasets, Jure Leskovec, Anand Rajaraman et al. 2020. Book website: http://www.mmds.org  
 
 ### Course schedule:
-* Corresponding chapters in Book "Database Systems: The Complete Book" is marked in following schedule.
+* Following each week's schedule, corresponding chapters of the Book "Database Systems: The Complete Book" are listed under Recommended Reading in the following table.
 
 
  Week                   | Date |Topic                                                       | Recommended Reading|Exercises                          
  ---------------------- |  ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | -------------------------------- 
 1      | 1/11 | Course overview ||                                   
 1      | 1/13 | Concepts of Database |   |                                
-2      | 1/18 | SQL modify table \& Relational Algebra Book Section 2.4 \& 5.1|  |                                 
+2      | 1/18 | SQL modify table \& Relational Algebra | Section 2.4 \& 5.1 |                                 
 2      | 1/20 | SQL single relation operation \& joins |    |                              
 3      | 1/25 | SQL joins and subqueries  |       |                           
 3      | 1/27 | SQL subqueries, grouping, aggregates  |    |                              
