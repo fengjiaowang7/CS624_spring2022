@@ -17,8 +17,8 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
  ---------------------- |  ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- 
 1      | 1/11 | Course overview |                                  
 1      | 1/13 | Concepts of Database |                                  
-2      | 1/18 | SQL basics |                                  
-2      | 1/20 | SQL joins |                                 
+2      | 1/18 | SQL modify table \& Relational Algebra |                                  
+2      | 1/20 | SQL single relation operation \& joins |                                 
 3      | 1/25 | SQL aggregates |                                 
 3      | 1/27 | SQL joins and aggregates  |                                 
 4      | 2/1 | SQL subqueries |                                  
