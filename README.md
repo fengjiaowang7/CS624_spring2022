@@ -11,7 +11,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 • Mining of Massive Datasets, Jure Leskovec, Anand Rajaraman et al. 2020. Book website: http://www.mmds.org  
 
 ### Course schedule:
-\* Following each week's schedule, corresponding chapters of the Book "Database Systems: The Complete Book" are listed under Recommended Reading in the following table.
+\* In the following table, under Recommended Reading column, chapters are from the Book "Database Systems: The Complete Book" are listed.
 
 
  Week                   | Date |Topic                                                       | Recommended Reading|Exercises                          
