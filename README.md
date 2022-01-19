@@ -20,7 +20,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 1      | 1/13 | Concepts of Database |   |                                
 2      | 1/18 | SQL modify table \& Relational Algebra | *Section 2.4 \& 5.1 |                                 
 2      | 1/20 | SQL single relation operation \& joins | *Section 6.1, 6.2   |                              
-3      | 1/25 | SQL joins and subqueries  |       |  Quiz 1 (SQL)                        
+3      | 1/25 | SQL joins and subqueries  |   *Section 6.3    |  Quiz 1 (SQL)                        
 3      | 1/27 | SQL subqueries, grouping, aggregates  |    |                              
 4      | 2/1 | SQL Hands-on session |     |   Homework 1 (SQL)                           
 4      | 2/3 | SQL subqueries |    |                              
