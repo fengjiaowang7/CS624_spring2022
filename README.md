@@ -41,7 +41,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 12      | 3/29 | Frequent Itemsets |      |                            
 12      | 3/31 | Frequent Itemsets |      |                            
 13      | 4/5 | Clustering |        |                          
-13      | 4/7 | Clustering |        |       Homework 4                   
+13      | 4/7 | Clustering |        |       Homework 4 (Week 10-13)                 
 14      | 4/12 | Recommendation Systems |      |                           
 14      | 4/14 | Recommendation Systems |      |                            
 15      | 4/19 | Final project presentation |    |                              
