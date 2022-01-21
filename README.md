@@ -12,6 +12,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 
 ### Course schedule:
 * In the following table, under Recommended Reading column, listed chapters are from the Book "Database Systems: The Complete Book".
+**The date associated with each exercise (quiz/homework) is tentative date for publishing the assignment, not the due date.**
 
 
  Week                   | Date |Topic                                                       | Recommended Reading|Exercises                          
