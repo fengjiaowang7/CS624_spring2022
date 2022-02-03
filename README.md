@@ -23,8 +23,8 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 2      | 1/20 | SQL single relation operation \& joins | *Section 6.1, 6.2   |                              
 3      | 1/25 | SQL aggregates  |   *Section 6.4    |  Quiz 1 (SQL)                        
 3      | 1/27 | SQL subqueries  |  *Section 6.3  |                              
-4      | 2/1 | SQL Hands-on session |     |   Homework 1 (SQL)                           
-4      | 2/3 | SQL subqueries |    |                              
+4      | 2/1 | SQL Hands-on session |     |                             
+4      | 2/3 | MapReduce |    |  Homework 1 (SQL)                             
 5      | 2/8 | MapReduce |   |                                
 5      | 2/10 | MapReduce |     |                              
 6      | 2/15 | MapReduce Today (Hive) |   |   Homework 2 (Hive)                           
