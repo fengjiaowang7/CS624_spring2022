@@ -26,10 +26,10 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 4      | 2/1 | SQL Hands-on session |     |                             
 4      | 2/3 | MapReduce | Mining of Massive Datasets, Chapter 2   |  Homework 1 (SQL)                             
 5      | 2/8 | MapReduce |   |                                
-5      | 2/10 | MapReduce |     |                              
-6      | 2/15 | MapReduce Today (Hive) |   |   Homework 2 (Hive)                           
-6      | 2/17 | Hive Hands-on session |    |                               
-7      | 2/22 | In-memory Analytics (Spark) |   |                               
+5      | 2/10 | MapReduce Today (Hive) Hive Hands-on session |     |                              
+6      | 2/15 | In-memory Analytics (Spark) | Mining of Massive Datasets, Chapter 2.4  |   Homework 2 (Hive)                           
+6      | 2/17 | Spark |    |                               
+7      | 2/22 | Spark |   |                               
 7      | 2/24 | SparkSQL |      |                             
 8      | 3/1 | In-depth Spark Tutorial |   |      Quiz 2 (Spark)                         
 8      | 3/3 | Spark Hands-on session |    |                              
