@@ -28,14 +28,14 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 5      | 2/8 | MapReduce |   |                                
 5      | 2/10 | MapReduce Today (Hive) Hive Hands-on session |     |                              
 6      | 2/15 | In-memory Analytics (Spark) | Mining of Massive Datasets, Chapter 2.4  |   Homework 2 (Hive)                           
-6      | 2/17 | Spark |    |                               
-7      | 2/22 | Spark |   |                               
-7      | 2/24 | SparkSQL |      |                             
-8      | 3/1 | In-depth Spark Tutorial |   |      Quiz 2 (Spark)                         
-8      | 3/3 | Spark Hands-on session |    |                              
-9      | 3/8 | Spring Holiday, no class |  |   Homework 3 (Spark)                             
+6      | 2/17 | Spark Hands-on session |    |                               
+7      | 2/22 | Similarity Matching |   |                               
+7      | 2/24 | Similarity Matching |      |                             
+8      | 3/1 | Link Analysis |   |      Midterm                         
+8      | 3/3 | Link Analysis |    |     Quiz 2 (Spark)                         
+9      | 3/8 | Spring Holiday, no class |  |                                
 9      | 3/10 | Spring Holiday, no class |   |                                
-10      | 3/15 | Similarity Matching |    |                             
+10      | 3/15 | Similarity Matching |    |   Homework 3 (Spark)                          
 10      | 3/17 | Similarity Matching |    |                               
 11      | 3/22 | Link Analysis |       |                           
 11      | 3/24 | Link Analysis |        |                          
