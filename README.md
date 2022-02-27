@@ -31,20 +31,20 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 6      | 2/17 | Spark Hands-on session |    |                               
 7      | 2/22 | Similarity Matching |   |                               
 7      | 2/24 | Similarity Matching |      |                             
-8      | 3/1 | Link Analysis |   |      Midterm                         
-8      | 3/3 | Link Analysis |    |     Quiz 2 (Spark)                         
+8      | 3/1 | Mining data streams |   |                               
+8      | 3/3 | Mining data streams |    |     Quiz 2 (Spark), Midterm                         
 9      | 3/8 | Spring Holiday, no class |  |                                
 9      | 3/10 | Spring Holiday, no class |   |                                
-10      | 3/15 | Similarity Matching |    |   Homework 3 (Spark)                          
-10      | 3/17 | Similarity Matching |    |                               
-11      | 3/22 | Link Analysis |       |                           
-11      | 3/24 | Link Analysis |        |                          
-12      | 3/29 | Frequent Itemsets |      |                            
-12      | 3/31 | Frequent Itemsets |      |                            
-13      | 4/5 | Clustering |        |                          
-13      | 4/7 | Clustering |        |       Homework 4 (Week 10-13)                 
-14      | 4/12 | Recommendation Systems |      |                           
-14      | 4/14 | Recommendation Systems |      |                            
+10      | 3/15 | Link analysis |    |   Homework 3 (Spark)                          
+10      | 3/17 | Clustering |    |                               
+11      | 3/22 | Advertising on the web |       |                           
+11      | 3/24 | Advertising on the web |        |                          
+12      | 3/29 | Recommendation systems |      |                            
+12      | 3/31 | Recommendation systems |      |                            
+13      | 4/5 | Mining social network graph |        |                          
+13      | 4/7 | Mining social network graph |        |       Homework 4 (Week 10-13)                 
+14      | 4/12 | Dimensionality reduction |      |                           
+14      | 4/14 | Dimensionality reduction |      |                            
 15      | 4/19 | Final project presentation |    |                              
 15      | 4/21 | Final project presentation |    |                             
 
