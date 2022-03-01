@@ -35,12 +35,12 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 8      | 3/3 | Recommendation systems |    |     Quiz 2 (Spark), Midterm                         
 9      | 3/8 | Spring Holiday, no class |  |                                
 9      | 3/10 | Spring Holiday, no class |   |                                
-10      | 3/15 | Link analysis |    |   Homework 3 (Spark)                          
-10      | 3/17 | Clustering |    |                               
-11      | 3/22 | Advertising on the web |       |                           
-11      | 3/24 | Advertising on the web |        |                          
-12      | 3/29 | Mining data streams |      |                            
-12      | 3/31 | Mining data streams |      |                            
+10      | 3/15 | Mining data streams |    |   Homework 3 (Spark)                          
+10      | 3/17 | Link analysis  |    |                               
+11      | 3/22 | Clustering |       |                           
+11      | 3/24 | Clustering |        |                          
+12      | 3/29 | Advertising on the web |      |                            
+12      | 3/31 | Advertising on the web |      |                            
 13      | 4/5 | Mining social network graph |        |                          
 13      | 4/7 | Mining social network graph |        |       Homework 4 (Week 10-13)                 
 14      | 4/12 | Dimensionality reduction |      |                           
