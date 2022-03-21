@@ -32,19 +32,19 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 7      | 2/22 | Similarity Matching |   |                               
 7      | 2/24 | Similarity Matching |      |                             
 8      | 3/1 | Recommendation systems |   |                               
-8      | 3/3 | Recommendation systems |    |     Quiz 2 (Spark), Midterm                         
+8      | 3/3 | Recommendation systems |    |     Quiz 2 (Spark)                         
 9      | 3/8 | Spring Holiday, no class |  |                                
 9      | 3/10 | Spring Holiday, no class |   |                                
-10      | 3/15 | Mining data streams |    |   Homework 3 (Spark)                          
-10      | 3/17 | Link analysis  |    |                               
-11      | 3/22 | Clustering |       |                           
-11      | 3/24 | Clustering |        |                          
-12      | 3/29 | Advertising on the web |      |                            
-12      | 3/31 | Advertising on the web |      |                            
-13      | 4/5 | Mining social network graph |        |                          
-13      | 4/7 | Mining social network graph |        |       Homework 4 (Week 10-13)                 
-14      | 4/12 | Dimensionality reduction |      |                           
-14      | 4/14 | Dimensionality reduction |      |                            
+10      | 3/15 | Mining data streams |    |                             
+10      | 3/17 | Link analysis  |    |   Midterm                            
+11      | 3/22 | Machine Learning - Supervised Learning |       |         Homework 3 (Spark)                  
+11      | 3/24 | Machine Learning - Supervised Learning |        |                          
+12      | 3/29 | Clustering |      |                            
+12      | 3/31 | Clustering |      |                            
+13      | 4/5 | Dimensionality reduction - Intro & PCA |        |                          
+13      | 4/7 | Dimensionality reduction - SVD & CUR |        |   Project milestone report due,  publish Homework 4 (Week 10-13)                 
+14      | 4/12 | Advertising on the web |      |                           
+14      | 4/14 | Recommendation Systems |      |                            
 15      | 4/19 | Final project presentation |    |                              
 15      | 4/21 | Final project presentation |    |                             
 
