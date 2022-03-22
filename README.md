@@ -44,7 +44,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 13      | 4/5 | Dimensionality reduction - Intro & PCA |        |                          
 13      | 4/7 | Dimensionality reduction - SVD & CUR |        |   Project milestone report due <br>publish Homework 4 (Week 10-13)                 
 14      | 4/12 | Advertising on the web |      |                           
-14      | 4/14 | Recommendation Systems |      |                            
+14      | 4/14 | Mining Social Network Graphs |      |                            
 15      | 4/19 | Final project presentation |    |                              
 15      | 4/21 | Final project presentation |    |                             
 
