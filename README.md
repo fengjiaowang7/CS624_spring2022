@@ -39,7 +39,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data o
 10      | 3/17 | Link analysis  |    |   Midterm                            
 11      | 3/22 | Machine Learning - Supervised Learning |       |         Homework 3 (Spark)                  
 11      | 3/24 | Machine Learning - Supervised Learning |        |                          
-12      | 3/29 | Clustering |      |                            
+12      | 3/29 | SVM |      |                            
 12      | 3/31 | Clustering |      |                            
 13      | 4/5 | Dimensionality reduction - Intro & PCA |        |                          
 13      | 4/7 | Dimensionality reduction - SVD & CUR |        |   Project milestone report due <br>publish Homework 4 (Week 10-13)                 
